@@ -53,10 +53,12 @@
 }
 
 .navbar__buttons button:hover {
-  background-color: #0056b3;
+ cursor: pointer;
 }
 
 /* for container */
+
+/* 
 .content-container {
   background-color: #f5f6f6;
   display: flex;
@@ -72,7 +74,6 @@
 
 .content-container__text h1 {
   font-size: 40px;
-  /* font-size: large; */
   font-weight: 900;
   margin-bottom: 10px;
 }
@@ -105,7 +106,7 @@
   border: none;
   border-radius: 4px;
   cursor: pointer;
-}
+} */
 
 
 /* for categories
